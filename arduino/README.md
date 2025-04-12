@@ -5,6 +5,7 @@
 Verfügbar:
  - 32 Digitale Pins
  - 16 Analoge Pins
+   
 Aktuelle Belegung:
  - Matrix:              20 Digitalen Pins
  - Piezos:              1 digitalen PIN
